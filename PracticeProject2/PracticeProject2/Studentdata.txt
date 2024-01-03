@@ -1,0 +1,15 @@
+1   Saraswathy,8A
+2   preetha,8B
+3   Ranjali,10B
+4   Adithya,10A
+5   Bavith,11C
+6   Swarupa,12A
+7   Naziya,11B
+8   Pughazh,8C
+9   Guru,9B
+10  Aarthi,12B
+11  Santhosh,10C
+12  Kanav,9A
+13  kashyap,9C
+14  Sanah,12C
+15  Laya,11A
